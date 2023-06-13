@@ -59,6 +59,35 @@ def _write_footer(stream: TextIO) -> None:
 ''')
 
 
+def _write_items(stream: TextIO, items: list[loader.RecipeItem] | dict) -> None:
+
+    stream.write('\\begin{itemize}\n')
+    if type(items) is list:
+        for item in items:
+            stream.write(f'\\item {item.text}\n')
+    else:
+        for key, value in items.items():
+            stream.write(f'\\item {key} ')
+            _write_items(stream, value)
+
+    stream.write('\\end{itemize}\n')
+
+
+def _write_procedure(stream: TextIO, steps: list[str] | dict) -> None:
+    wrapper = 'enumerate' if type(steps) is list else 'itemize'
+    stream.write(f'\\begin{{{wrapper}}}\n')
+
+    if type(steps) is list:
+        for step in steps:
+            stream.write(f'\\item {step}\n')
+    else:
+        for key, value in steps.items():
+            stream.write(f'\\item {key} ')
+            _write_procedure(stream, value)
+
+    stream.write(f'\\end{{{wrapper}}}\n')
+
+
 def _write_recipe(stream: TextIO, recipe: loader.Recipe) -> None:
     stream.write(
         f'''
@@ -67,24 +96,16 @@ def _write_recipe(stream: TextIO, recipe: loader.Recipe) -> None:
 \\porce{{{'?' if recipe.portions is None else recipe.portions}}}
 \\vspace{{10px}}
 \\textbf{{Suroviny:}}
-\\begin{{itemize}}
-
 ''')
-    for item in recipe.items:
-        stream.write(f'\\item {item.text} \n')
 
+    _write_items(stream, recipe.items)
     stream.write('''
-\\end{itemize}
 
 \\vspace{10px}
 \\textbf{Postup:}
-\\begin{enumerate}
 ''')
 
-    for step in recipe.procedure:
-        stream.write(f'\\item {step} \n')
-
-    stream.write('\\end{enumerate}\n')
+    _write_procedure(stream, recipe.procedure)
 
     if recipe.note is not None:
         stream.write(f'''

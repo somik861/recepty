@@ -63,6 +63,7 @@ def _write_recipe(stream: TextIO, recipe: loader.Recipe) -> None:
     stream.write(
         f'''
 \\subsection{{{recipe.name}}}
+\\begin{{flushright}} \\hyperref[toc]{{obsah}} \\end{{flushright}}
 \\porce{{{'?' if recipe.portions is None else recipe.portions}}}
 \\vspace{{10px}}
 \\textbf{{Suroviny:}}
@@ -73,7 +74,7 @@ def _write_recipe(stream: TextIO, recipe: loader.Recipe) -> None:
         stream.write(f'\\item {item.text} \n')
 
     stream.write('''
-\\end({itemize})
+\\end{itemize}
 
 \\vspace{10px}
 \\textbf{Postup:}

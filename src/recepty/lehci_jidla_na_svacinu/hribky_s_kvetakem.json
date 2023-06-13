@@ -1,0 +1,19 @@
+{
+    "name": "Hříbky s květákem",
+    "items": [
+        "2 cibule",
+        "1 velký květák",
+        "800 g hříbků",
+        "8 stroužků česneku",
+        "tymián",
+        "petržel",
+        "sůl",
+        "koření"
+    ],
+    "procedure": [
+        "Osmažíme cibuli.",
+        "Přidáme hříbky a osmažíme.",
+        "Přidáme květák."
+    ],
+    "is_čuču": true
+}

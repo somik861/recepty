@@ -1,0 +1,18 @@
+{
+    "name": "Pečená zelenina s balkánským sýrem",
+    "items": [
+        "2 lilky",
+        "4 cukety",
+        "2 cibule",
+        "1 balkánský sýr",
+        "sůl",
+        "koření",
+        "česnek"
+    ],
+    "procedure": [
+        "Vše nakrájíme, osolíme a okořeníme.",
+        "Přidáme oleje, zamícháme a dáme na plech.",
+        "Pečeme na 180\\degree C asi 1 a půl hodiny."
+    ],
+    "is_čuču": true
+}

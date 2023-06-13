@@ -1,0 +1,23 @@
+{
+    "name": "Jarní omeleta s chřestem",
+    "items": [
+        "500 g chřestu",
+        "1 mražený hrášek",
+        "2 cukety",
+        "2 červené cibule",
+        "4 rajčata",
+        "česnek",
+        "8 vajíček",
+        "mléko",
+        "sůl",
+        "pepř"
+    ],
+    "procedure": [
+        "Zeleninu postupně osmažíme se solí, kořením a česnekem na pánvičce a necháme odpařit vodu.",
+        "Hotovou zeleninu přeložíme do zapékací misky a necháme vychladnout.",
+        "Zamícháme vajíčka s mlékem a trochou soli.",
+        "Pečeme na 200\\degree C 20 minut z každé strany."
+    ],
+    "portions": 8,
+    "is_čuču": true
+}

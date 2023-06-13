@@ -1,0 +1,15 @@
+{
+    "name": "Chilli con carne zelenina",
+    "items": [
+        "2 plechovky pikantních fazolí v rajčatové omáčce",
+        "3 lilky",
+        "4 cukety",
+        "3 velké mrkve"
+    ],
+    "procedure": [
+        "Zeleninu osmahneme na oleji.",
+        "Zalijeme fazolemi a převaříme.",
+        "Potom případně dosolíme nebo dokořeníme."
+    ],
+    "is_čuču": true
+}

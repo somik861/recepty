@@ -1,0 +1,20 @@
+{
+    "name": "Mrkvovo-batátovým pyré",
+    "items": [
+        "3 batáty",
+        "3 velké mrkve",
+        "4 stopky řapíkatého celeru",
+        "šťáva z 1 citrónu",
+        "sůl",
+        "černý pepř",
+        "máslo"
+    ],
+    "procedure": [
+        "Na velkém kusu másla osmažíme celer a mrkev.",
+        "Přidáme batáty a zalijeme po vrch vodou.",
+        "Rozvaříme a rozmixujeme.",
+        "Přidáme citrón, sůl a pepř."
+    ],
+    "portions": 8,
+    "is_čuču": true
+}

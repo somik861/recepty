@@ -1,0 +1,24 @@
+{
+    "name": "Klobásová fazole",
+    "items": [
+        "2 klobásy",
+        "1 balení hnědé fazole",
+        "1 zakysaná smetana",
+        "6 brambor",
+        "12 kuliček černého pepře",
+        "8 kuliček nového koření",
+        "8 bobkových listů",
+        "sůl"
+    ],
+    "procedure": [
+        "Namočíme fazole na alespoň 4 hodiny.",
+        "Propláchneme a dáme do tlakového hrnce s kořením (bez soli).",
+        "Vaříme v tlaku 20 minut a necháme 10 minut dojít vypnuté.",
+        "Otevřeme z znovu přivedeme k varu.",
+        "Přidáme brambory, celé klobásy a sůl a vaříme dokud brambory nezměknou.",
+        "Vybereme koření, vytáhneme klobásy, nakrájíme a vhodíme zpět.",
+        "Přidáme smetanu a chvíli povaříme."
+    ],
+    "portions": 10,
+    "is_čuču": true
+}

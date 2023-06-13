@@ -1,0 +1,19 @@
+{
+    "name": "Maso s pórkem",
+    "items": [
+        "500 g masa (drůbež, králík,...)",
+        "1 pórek nebo cibule",
+        "4 stroužky česneku",
+        "1 lžička škrobové moučky (bramborový škrob)",
+        "trochu sójové omáčky",
+        "sůl",
+        "2 lžíce oleje na opečení"
+    ],
+    "procedure": [
+        "Maso nakrájíme na nudličky, osolíme a opečeme na oleji.",
+        "Přidáme nakrájený pórek nebo cibuli, prolisovaný česnek, zakapeme sójovou omáčkou, podlijeme šálkem horké vody a podusíme doměkka.",
+        "Směs zahustíme škrobovou moučkou rozmíchanou v malém množství vody a krátce povaříme.",
+        "Podáváme s pečenými brambory nebo dušenou rýží či rýžovými nudlemi a obložíme zeleninou."
+    ],
+    "is_čuču": false
+}

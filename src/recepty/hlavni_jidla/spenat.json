@@ -1,0 +1,20 @@
+{
+    "name": "Špenát",
+    "items": [
+        "1 mražený špenát",
+        "1 menší cibule",
+        "3 stroužky česneku",
+        "1 hrnek smetany na vaření",
+        "sůl",
+        "2 lžíce sádla",
+        "4 lžíce hladké mouky"
+    ],
+    "procedure": [
+        "Nadrobno si nakrájíme cibuli a česnek. Do hrnce dáme sádlo, přidáme cibuli s česnekem a necháme zpěnit.",
+        "Do hrnce přidáme smetanu a špenát. Přikryjeme pokličkou a občas promícháme, dokud špenát neroztaje.",
+        "Postupně vmícháváme hladkou mouku, přisypáváme za stálého míchání, aby se nevytvořily hrudky.",
+        "Nakonec necháme špenát trošku \"probublat\" a jakmile se bude lepit na vařečku, tak je hotový."
+    ],
+    "portions": 4,
+    "is_čuču": false
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Šišky se zelím",
+    "items": [
+        "500 g kysaného zelí",
+        "1 cibule",
+        "špetka cukru"
+    ],
+    "procedure": [
+        "Šišky připravíme podle těsta na bramborové knedlíky.",
+        "Cibuli osmažíme na oleji, přidáme kysané zelí a dusíme do měkka.",
+        "Ochutíme podle potřeby špetkou cukru a soli.",
+        "Smícháme se šiškami."
+    ],
+    "portions": 4,
+    "is_čuču": false
+}

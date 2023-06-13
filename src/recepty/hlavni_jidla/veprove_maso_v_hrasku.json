@@ -1,0 +1,18 @@
+{
+    "name": "Vepřové maso v hrášku",
+    "items": [
+        "350 g vepřové plece",
+        "400 g čerstvého nebo zmraženého hrášku",
+        "sůl",
+        "2 lžíce oleje na opečení"
+    ],
+    "procedure": [
+        "Vepřové maso nakrájíme na kostičky a opečeme na oleji.",
+        "Osolíme, podlijeme šálkem horké vody a dusíme doměkka.",
+        "Zvlášť uvaříme hrášek, který přidáme k měkkému masu a společně prohřejeme.",
+        "(optional) Nakonec vmícháme pokrájenou pažitku.",
+        "Vhodnou přílohou jsou vařené brambory a salát nebo kompot z ovoce."
+    ],
+    "note": "Pokrm můžeme zahustit hladkou moukou nebo škrobovou moučkou.",
+    "is_čuču": false
+}

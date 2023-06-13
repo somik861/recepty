@@ -4,3 +4,7 @@
 # python and mypy
 __pycache__
 .mypy_cache
+
+# aux files
+*.tex
+/build*

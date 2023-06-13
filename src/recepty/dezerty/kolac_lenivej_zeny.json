@@ -1,0 +1,34 @@
+{
+    "name": "Koláč lenivej ženy",
+    "items": {
+        "těsto": [
+            "2 hrnky mouky",
+            "1 hrnek nemletého máku",
+            "1 prášek do pečiva",
+            "špetka soli",
+            "1 hrnek mléka",
+            "1/2 hrnku oleje",
+            "3 vajíčka",
+            "1 hrnek cukru"
+        ],
+        "pomerančová poleva": [
+            "4 velké (6 malých) pomerančů",
+            "4 lžičky kukuřičného škrobu",
+            "5 lžic práškového cukru",
+            "trochu vody",
+            "4 lžíce másla"
+        ]
+    },
+    "procedure": {
+        "těsto": [
+            "Ručně smíchat a vylít na plech.",
+            "Péct na 170\\degree C 40 - 50 min."
+        ],
+        "pomerančová poleva": [
+            "Šťávu z pomerančů spolu s kůrou z cca 2/3 pomerančů povaříme s cukrem, škrobem a vodou podle potřeby.",
+            "Do teplé polevy vmícháme máslo.",
+            "Podle potřeby přecedíme."
+        ]
+    },
+    "is_čuču": false
+}

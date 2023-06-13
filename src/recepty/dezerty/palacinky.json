@@ -1,0 +1,15 @@
+{
+    "name": "Palačinky",
+    "items": [
+        "6 dl mléka",
+        "3 vejce",
+        "sůl",
+        "300 g polohrubé mouky",
+        "olej"
+    ],
+    "procedure": [
+        "Mléko, vejce a sůl rozšleháme, za stálého míchání postupně přidáme prosetou mouku a těsto necháme chvíli postát.",
+        "Na vymazané pánvi upečeme tenké palačinky."
+    ],
+    "is_čuču": false
+}

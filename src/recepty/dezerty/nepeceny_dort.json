@@ -1,0 +1,34 @@
+{
+    "name": "Nepečený dort",
+    "items": {
+        "ovoce": [
+            "banány",
+            "kiwi"
+        ],
+        "korpus": [
+            "smetana na šlehání",
+            "2 zakysané smetana",
+            "2 lžíce cukru",
+            "2 lžíce sirupu",
+            "2 balíčky piškotů"
+        ],
+        "želatina": [
+            "300 ml vody",
+            "5 lžic cukru",
+            "1 puding",
+            "půl balíčku vitacitu"
+        ]
+    },
+    "procedure": {
+        "korpus": [
+            "Šlehačku a cukr ušleháme do tuha, přidáme zakysanou smetanu, míchat vařečkou !!"
+        ],
+        "želatina": [
+            "Všechny přísady rozmíchat, nechat povařit chvilku. míchat do zchladnutí a nalijeme na dort a dáme do lednice vychladit."
+        ],
+        "dort": [
+            "Do formy naskládáme piškoty, pokapeme šťávou, poklademe ovocem, polijeme polovinou korpus-hmoty, piškoty, ovoce, hmota ... hmota, želatina."
+        ]
+    },
+    "is_čuču": false
+}

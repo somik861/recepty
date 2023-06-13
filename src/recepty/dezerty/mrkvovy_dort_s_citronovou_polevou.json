@@ -1,0 +1,35 @@
+{
+    "name": "Mrkvový dort s citronovou polevou",
+    "items": {
+        "těsto": [
+            "1 a 3/4 hrnku hladké mouky",
+            "3 vejce",
+            "1 prášek do pečiva",
+            "750 g najemno nastrouhané mrkve",
+            "200 g nahrubo nasekaných vlašských ořechů",
+            "200 g najemno pomletých vlašských ořechů",
+            "1/4 hrnku oleje",
+            "1 hrnek cukru",
+            "špetka soli"
+        ],
+        "poleva": [
+            "2 nízkotučné roztíratelné tvarohy",
+            "kůra z 2 citronů",
+            "šťáva z 1/2 citronu",
+            "120 g másla",
+            "160 g práškového cukru"
+        ]
+    },
+    "procedure": {
+        "těsto": [
+            "Rozšlehat vajíčka s olejem a cukrem.",
+            "Přidat zbytek a péct na 180\\degree C cca 35 min."
+        ],
+        "poleva": [
+            "Rozšlehat máslo s cukrem.",
+            "Vmíchat tvarohy a citron.",
+            "Nalít na vychladlé těsto a nechat přes noc v ledničce ztuhnout."
+        ]
+    },
+    "is_čuču": false
+}

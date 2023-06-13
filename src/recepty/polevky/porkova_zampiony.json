@@ -1,0 +1,20 @@
+{
+    "name": "Pórková se žampiony",
+    "items": [
+        "trochu másla",
+        "6 stroužků česneku",
+        "6 brambor",
+        "3 pórky",
+        "500 g žampionů",
+        "sůl",
+        "černý pepř",
+        "muškátový oříšek"
+    ],
+    "procedure": [
+        "Na másle opražíme pórek.",
+        "Postupně přidáme žampiony a česnek.",
+        "Osolíme, okoření, zalijeme vodou a přidáme brambory."
+    ],
+    "portions": 8,
+    "is_čuču": true
+}

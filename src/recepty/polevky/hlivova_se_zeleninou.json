@@ -1,0 +1,31 @@
+{
+    "name": "Hlívová se zeleninou",
+    "items": [
+        "600 g hlívy ústřičné",
+        "2 petržele",
+        "4 mrkve",
+        "2 cibule",
+        "4 brambory",
+        "4 stroužky česneku",
+        "4 lžíce másla",
+        "sůl",
+        "mleté černé koření",
+        "1 lžička mleté červené papriky",
+        "1 lžička kurkumy",
+        "1 lžička drceného kmínu"
+    ],
+    "procedure": [
+        "Hlívu jemně propláchneme vodou a usušíme papírovým ubrouskem.",
+        "Mrkev a petržel očistíme, umyjeme, osušíme a nakrájíme na malé kostky.",
+        "Cibuli očistíme a nakrájíme na drobno. Potom necháme na másle zesklovatět.",
+        "Přidáme mrkev, petržel a oloupaný česnek. Restujeme asi 5 minut.",
+        "Hlívu nakrájíme na menší kousky.",
+        "K orestované zelenině přidáme nakrájenou hlívu a spolu orestujeme.",
+        "Ochutíme solí, černým kořením, červenou paprikou, kurkumou a kmínem.",
+        "Poté zalijeme vařící vodou (cca 3,2 l).",
+        "Oloupeme, umyjeme a nakrájíme brambory.",
+        "Polévku přivedeme do varu, povaříme 10 minut, vložíme brambory a povaříme dalších 20 minut."
+    ],
+    "portions": 10,
+    "is_čuču": true
+}

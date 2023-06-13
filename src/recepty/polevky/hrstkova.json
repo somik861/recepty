@@ -1,0 +1,21 @@
+{
+    "name": "Hrstková",
+    "items": [
+        "500 g hrstkové směsi",
+        "1 zakysaná smetana",
+        "6 bobkových listů",
+        "6 kuliček nového koření",
+        "10 kuliček černého pepře",
+        "sůl",
+        "cukr",
+        "ocet"
+    ],
+    "procedure": [
+        "Hrstkovou směs namočíme přes noc.",
+        "Vaříme v tlakovém hrnci i s bokovými listy a kořením 10 minut pod tlakem a necháme 10 minut dojít.",
+        "Po otevření dáme znovu vařit a dochucujeme.",
+        "Vybereme koření a převaříme se smetanou."
+    ],
+    "portions": 8,
+    "is_čuču": true
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Hrachová s uzeným masem",
+    "items": [
+        "400 g suchého hrachu",
+        "350 g uzeného masa",
+        "3 mrkve",
+        "3 stopky řapíkatého celeru",
+        "2 cibule",
+        "1 velká brambora",
+        "sůl",
+        "černý pepř",
+        "majoránka"
+    ],
+    "procedure": [
+        "Hrach uvaříme v tlaku asi 15 minut a před upuštěním necháme 5 min dojít.",
+        "Osmažíme cibuli, maso, mrkev a celer.",
+        "Zalijeme vodou, přidáme bramboru, koření a vaříme.",
+        "Převaříme s hrachem."
+    ],
+    "portions": 8,
+    "is_čuču": true
+}

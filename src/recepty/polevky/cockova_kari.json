@@ -1,0 +1,19 @@
+{
+    "name": "Čočková kari",
+    "items": [
+        "2 velké cibule",
+        "6 mrkví",
+        "4 stopky řapíkatého celeru",
+        "2 brambory",
+        "5 stroužků česneku",
+        "400 g červené čočky"
+    ],
+    "procedure": [
+        "Na oleji osmažíme cibuli, stopky řapíkatého celeru a mrkev.",
+        " Přidáme česnek, kari, sůl a pepř a osmahneme.",
+        "Zalijeme vodou, přidáme brambory a vaříme do měkka.",
+        "Nakonec přidáme čočku a uvaříme do měkka."
+    ],
+    "portions": 8,
+    "is_čuču": true
+}

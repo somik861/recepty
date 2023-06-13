@@ -1,0 +1,25 @@
+{
+    "name": "Kapustová s párkem",
+    "items": [
+        "menší kapusta",
+        "2 cibule",
+        "6 stroužků česneku",
+        "1 lžička červené mleté papriky",
+        "2 lžíce oleje",
+        "sůl",
+        "drcený kmín",
+        "majoránka",
+        "1 lžíce hladké mouky",
+        "4 brambory",
+        "250 g párků"
+    ],
+    "procedure": [
+        "Na oleji zpěníme nakrájené cibule, přidáme kapustu a mletou červenou papriku.",
+        "Potom přidáme hladkou mouku a protlačený česnek.",
+        "Zalijeme vodou, osolíme, přidáme podle chuti sůl, drcený kmín a nakrájené brambory.",
+        "Uvaříme do měkka.",
+        "Přidáme na kolečka nakrájené párky.",
+        "Nakonec přidáme majoránku."
+    ],
+    "is_čuču": true
+}

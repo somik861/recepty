@@ -1,0 +1,21 @@
+{
+    "name": "Indická květáková",
+    "items": [
+        "1 malý květák",
+        "2 uzené tofu",
+        "3 mrkve",
+        "400 ml kokosového mléka",
+        "kari",
+        "kurkuma",
+        "garam masala",
+        "sůl"
+    ],
+    "procedure": [
+        "Rozdrobíme tofu a na kolečka nakrájíme mrkev.",
+        "Osmažíme a okořeníme.",
+        "Přidáme květák, papriku, zalijeme vodou a uvaříme.",
+        "Přidáme kokosové mléko a převaříme."
+    ],
+    "portions": 8,
+    "is_čuču": true
+}

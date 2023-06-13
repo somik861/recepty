@@ -1,0 +1,19 @@
+{
+    "name": "Špenátová",
+    "items": [
+        "6 vajec",
+        "4 cibule",
+        "4 špenátové protlaky",
+        "sůl",
+        "černé koření",
+        "česnek",
+        "muškátový ořech"
+    ],
+    "procedure": [
+        "Cibuli a koření osmažíme.",
+        "Přidáme špenát, zalijeme vodou a vaříme.",
+        "Vejce uvaříme na tvrdo, nakrájíme a vhodíme do polévky."
+    ],
+    "portions": 8,
+    "is_čuču": true
+}

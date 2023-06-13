@@ -1,0 +1,24 @@
+{
+    "name": "Krémová papriková",
+    "items": [
+        "3 cibule",
+        "2 menší fenykly",
+        "4 větší mrkve",
+        "5 paprik",
+        "1 řecký jogurt",
+        "česnek",
+        "bobkové listy",
+        "tymián",
+        "oregano"
+    ],
+    "procedure": [
+        "Na oleji osmažíme cibuli s kořením.",
+        "Přidáme papriku smažíme.",
+        "Přidáme mrkev a smažíme.",
+        "Potom zalijeme vodou a uvaříme do měkka.",
+        "Rozmixujeme.",
+        "Převaříme se řeckým jogurtem."
+    ],
+    "portions": 8,
+    "is_čuču": true
+}

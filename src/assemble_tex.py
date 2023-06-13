@@ -111,7 +111,7 @@ def _write_recipe(stream: TextIO, recipe: loader.Recipe) -> None:
         stream.write(f'''
 \\vspace{{10px}}
 \\textbf{{poznamka}}
-\\begin{{adjustwidth}}{{1cm}}
+\\begin{{adjustwidth}}{{1cm}}{{}}
 {recipe.note}
 \\end{{adjustwidth}}
 ''')

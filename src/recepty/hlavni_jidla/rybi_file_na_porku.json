@@ -1,14 +1,14 @@
 {
     "name": "Rybí filé na pórku",
     "items": [
-        "400 g zmrazeného rybího filé",
-        "1 cibule",
-        "2 pórky",
+        "600 g zmrazeného rybího filé",
+        "2 cibule",
+        "2 velké pórky",
         "50 g oleje",
-        "1 lžíce citronové šťávy",
-        "1 lžíce hořčice",
+        "2 lžíce citronové šťávy",
+        "2 lžíce hořčice",
         "sůl",
-        "1 lžíce sekané petrželové nati"
+        "1 svazek petrželové nati"
     ],
     "procedure": [
         "Rozmrazené porce filé omyjeme, osolíme, zakápneme citrónovou šťávou a potřeme olejem a v chladnu necháme zaležet.",
@@ -17,5 +17,6 @@
         "Odležené porce filé dáme do kastrolu na dušený pórek, zalijeme rozředěnou hořčicí, aniž bychom obsahem míchali, přidáme zbytek oleje a dusíme 20 minut.",
         "Hotový pokrm posypeme sekanou petrželovou natí a podáváme s chlebem nebo vařeným bramborem."
     ],
+    "portions": 6,
     "is_čuču": true
 }

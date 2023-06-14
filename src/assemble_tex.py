@@ -111,7 +111,7 @@ def _write_recipe(stream: TextIO, recipe: loader.Recipe) -> None:
     if recipe.note is not None:
         stream.write(f'''
 \\vspace{{10px}}
-\\textbf{{poznamka}}
+\\textbf{{Poznámka:}}
 \\begin{{adjustwidth}}{{1cm}}{{}}
 {recipe.note}
 \\end{{adjustwidth}}

@@ -1,20 +1,20 @@
 {
     "name": "Čočka na kyselo",
     "items": [
-        "1 hrnek čočky",
-        "1 cibule",
-        "3 lžíce kysaného zelí",
+        "1 sáček čočky",
+        "2 cibule",
+        "400 g kysaného zelí",
         "sůl",
         "olej",
-        "kukuřičný škrob",
         "sójová omáčka"
     ],
     "procedure": [
         "Čočku namočíme na 2 hodiny do studené vody.",
         "Slijeme a dáme vařit do čisté studené vody.",
         "Vaříme do měkka.",
-        "Přidáme osmaženou cibulku, osolíme, přidáme sójovou omáčku, zahustíme kukuřičným škrobem a necháme povařit (chvilku).",
+        "Přidáme osmaženou cibulku, osolíme, přidáme sójovou omáčku a necháme povařit (chvilku).",
         "Nakonec vmícháme nakrájené kysané zelí."
     ],
-    "is_čuču": false
+    "portions": 8,
+    "is_čuču": true
 }

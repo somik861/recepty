@@ -1,0 +1,19 @@
+{
+    "name": "Květákové pyré",
+    "items": [
+        "1 velký květák",
+        "2 lžičky soli",
+        "7 stroužků česneku",
+        "černý pepř",
+        "100 g lučiny",
+        "20 g másla"
+    ],
+    "procedure": [
+        "Květák osolíme a uvaříme ve vodě do měkka.",
+        "Slijeme téměř všechnu vodu.",
+        "Ještě teplé rozmixujeme společně s čenekem.",
+        "Přidíme černý pepř, lučinu a máslo a rozmícháme do hladka."
+    ],
+    "is_čuču": true,
+    "portions": 6
+}

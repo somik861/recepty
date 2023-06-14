@@ -91,6 +91,7 @@ def _write_procedure(stream: TextIO, steps: list[str] | dict) -> None:
 def _write_recipe(stream: TextIO, recipe: loader.Recipe) -> None:
     stream.write(
         f'''
+\\newpage
 \\subsection{{{recipe.name}}}
 \\begin{{flushright}} \\hyperref[toc]{{obsah}} \\end{{flushright}}
 \\porce{{{'?' if recipe.portions is None else recipe.portions}}}
@@ -119,15 +120,19 @@ def _write_recipe(stream: TextIO, recipe: loader.Recipe) -> None:
 
 def _write_block(stream: TextIO, recipes: list[loader.Recipe], name: str) -> None:
     stream.write(f'''
+\\newpage
 \\section{{{name}}}
 ''')
-    for recipe in recipes:
+    for recipe in sorted(recipes, key=lambda x: x.name):
         _write_recipe(stream, recipe)
 
 
 def _write_recipes(stream: TextIO, recipes: dict[str, list[loader.Recipe]]) -> None:
     for name, recipe_list in recipes.items():
-        _write_block(stream, recipe_list, name)
+        _write_block(stream, list(
+            filter(lambda x: not x.is_čuču, recipe_list)), name)
+        _write_block(stream, list(
+            filter(lambda x: x.is_čuču, recipe_list)), 'Čuču - ' + name)
 
 
 def main() -> None:

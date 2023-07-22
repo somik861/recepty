@@ -1,0 +1,17 @@
+{
+    "name": "Domácí zmrzlina",
+    "items": [
+        "2 smetany na šlehání (33 %)",
+        "1 práškový ztužovač šlehačky",
+        "3 vajíčka",
+        "1 lžíce vanilkového extraktu",
+        "5 zarovnaných lžic cukru"
+    ],
+    "procedure": [
+        "Šlehačky vyšleháme se ztužovačem a dáme do ledničky.",
+        "Pořádně vyšleháme 3 vajíčka, vanilkový extrakt a cukr.",
+        "Obě části ručně jemně smícháme, opatrně vylijeme do nádoby a dáme mrazit"
+    ],
+    "is_čuču": true,
+    "portions": 10
+}

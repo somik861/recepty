@@ -1,0 +1,22 @@
+{
+    "name": "Humus",
+    "items": [
+        "250 g cizrny",
+        "40 lžic vody, v které se vařila cirna",
+        "2 lžic tahiny",
+        "2 lžice olivového oleje",
+        "1 citrón",
+        "1 lžička soli",
+        "1 lžička sladké papriky",
+        "půl lžičky černého pepře",
+        "4 stroužky česneku"
+    ],
+    "procedure": [
+        "Cizrnu prepláchneme a na 1 a půl hodiny namočíme.",
+        "Proplácheneme a vaříme v tlakovém hrnci s 5 hrnky vody pod tlakem 20 minut.",
+        "Necháme 10 minut dojít.",
+        "Cizrnu s 40 lžícemi vody rozmixujeme a dochutíme."
+    ],
+    "portions": 10,
+    "is_čuču": true
+}

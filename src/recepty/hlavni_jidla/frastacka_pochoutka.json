@@ -1,0 +1,19 @@
+{
+    "name": "Fraštácká pochoutka",
+    "items": [
+        "700 g vepřové kýty",
+        "1 sklenice zavařených okurek",
+        "6 lžic hořčice",
+        "pepř",
+        "sůl",
+        "trochu chili"
+    ],
+    "procedure": [
+        "Maso nakrájíme na tenké nudličky a naprudko osmažíme.",
+        "Přidáme sůl a pepř.",
+        "Po odsmažení vody přidéme nastrouhané okurky (nevymačkávat vodu) a chvilku povaříme.",
+        "Přidáme horčici, necháme probublat a vypneme."
+    ],
+    "is_čuču": true,
+    "portions": 6
+}

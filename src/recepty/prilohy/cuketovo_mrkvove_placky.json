@@ -1,0 +1,19 @@
+{
+    "name": "Cuketovo mrkvové placky",
+    "items": [
+        "2 cukety",
+        "7 mrkví",
+        "4 vejce",
+        "mouka",
+        "česnek",
+        "koření",
+        "majoránka",
+        "sůl"
+    ],
+    "procedure": [
+        "Cuketu nastrouháme, pořádně nasolíme, necháme pustit vodu a vyždímáme.",
+        "Nastrouháme mrkev.",
+        "Smícháme a vytvoříme těstíčko z něhož usmažíme placky."
+    ],
+    "is_čuču": true
+}

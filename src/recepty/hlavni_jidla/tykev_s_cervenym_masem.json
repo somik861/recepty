@@ -1,0 +1,43 @@
+{
+    "name": "Tykev s červeným masem",
+    "items": {
+        "Omáčka": [
+            "2 velké tykve (zelené)",
+            "1 zakysaná smetana",
+            "cukr",
+            "sůl",
+            "ocet",
+            "černý pepř",
+            "kopr"
+        ],
+        "Maso": [
+            "500 - 600 g vepřové kýty",
+            "2 cibule",
+            "sůl",
+            "černý pepř",
+            "sladká mletá paprika"
+        ],
+        "Brambory": [
+            "3 - 4 brambory"
+        ]
+    },
+    "procedure": {
+        "Omáčka": [
+            "Tykev oloupeme a vydlabeme.",
+            "Nastrouháme nahrubo.",
+            "Podusíme do měkka na trošce oleje a přidáme pepř.",
+            "Dle potřeby lze přilít vodu.",
+            "Přidáme smetana a převaříme.",
+            "Nakonec přidáme ocet, dosolíme a docukrujeme podle chuti."
+        ],
+        "Maso": [
+            "Maso nakrájíme na malé kousky.",
+            "Osmažíme cibuli, přidáme papriku, masu a pepř.",
+            "Přidáme vodu a podusíme do měkka."
+        ],
+        "Brambory": [
+            "Brambory uvaříme a protlačíme s máslem."
+        ]
+    },
+    "is_čuču": true
+}

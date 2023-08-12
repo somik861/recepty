@@ -1,0 +1,37 @@
+{
+    "name": "Zeleninové kari",
+    "items": [
+        "400 g rýže natural",
+        "150 g cizrny",
+        "200 g červené čočky",
+        "600 g rajčat",
+        "400 ml kokosového mléka",
+        "2 menší květáky",
+        "1 brokolice",
+        "1 lilek",
+        "1 cuketa",
+        "1 cibule",
+        "Chilli pasta",
+        "8 stroužků čenseku",
+        "zázvor (sušený, nebo 2 plátky)",
+        "kari",
+        "kurkuma",
+        "garam masala",
+        "skořice",
+        "sůl"
+    ],
+    "procedure": [
+        "Rýži uvaříme.",
+        "Cizrnu 90 minut předem namočíme, vaříme 20 minut pod tlakem a necháme 10 minut dojít.",
+        "Na velké pánvi na oleji osmažíme česnek, zázvor, chilli a cibuli.",
+        "Přidáme masalu, kurkumu, kari a skořici a z lehka spaříme.",
+        "Přidáme květák a podusíme.",
+        "Poté přidáme lilek a znovu podusíme.",
+        "Poté s rajčatama zredukujeme.",
+        "Přidáme zbytek zeleniny a trochu osmahneme.",
+        "Zalijeme kokosovým mlékem a přidáme červenou čočku a uvaříme.",
+        "Nakonec přidáme uvařenou cizrnu."
+    ],
+    "portions": 8,
+    "is_čuču": true
+}

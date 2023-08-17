@@ -15,8 +15,8 @@ class RecipeItem:
 @dataclass
 class Recipe:
     name: str
-    items: list[RecipeItem]
-    procedure: list[str]
+    items: dict | list[RecipeItem]
+    procedure: dict | list[str]
     note: str | None = None
     portions: int | None = None
     is_čuču: bool = False
@@ -26,12 +26,20 @@ def _parse_item(item: str) -> RecipeItem:
     return RecipeItem(None, 0, item)
 
 
+def _load_items_rec(items: list[str] | dict) -> list[RecipeItem] | dict:
+    if type(items) is list:
+        return list(map(lambda x: _parse_item(x), items))
+
+    out = {}
+    for k, v in items.items():
+        out[k] = _load_items_rec(v)
+    return out
+
+
 def _load_recipe(file: Path) -> Recipe:
     recipe_json = json.load(open(file, mode='r', encoding='utf-8'))
 
-    items = []
-    for item in recipe_json['items']:
-        items.append(_parse_item(item))
+    items = _load_items_rec(recipe_json['items'])
 
     return Recipe(recipe_json['name'], items, recipe_json['procedure'], note=recipe_json.get('note'),
                   is_čuču=recipe_json.get('is_čuču', False), portions=recipe_json.get('portions'))

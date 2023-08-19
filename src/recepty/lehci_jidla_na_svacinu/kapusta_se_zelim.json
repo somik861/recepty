@@ -1,0 +1,18 @@
+{
+    "name": "Kapusta se zelím",
+    "items": [
+        "1 cibule",
+        "1 malé bílé zelí",
+        "1 velká kapusta",
+        "8 stroužků česneku",
+        "sůl",
+        "pepř"
+    ],
+    "procedure": [
+        "Cibuli podusíme.",
+        "Přidáme česnek.",
+        "Po chvíli přidáme zelí a nakonec kapustu, sůl a pepř."
+    ],
+    "is_čuču": true,
+    "portions": 8
+}

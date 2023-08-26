@@ -1,0 +1,23 @@
+{
+    "name": "Celozrnný žitný chléb",
+    "items": [
+        "400 g celozrnné mouky",
+        "1/2 čerstvého droždí",
+        "350 ml vlažné vody",
+        "1 lžíce drcenného kmínu",
+        "1 lžíce celého kmínu",
+        "3 lžičky soli",
+        "větší špetka cukru"
+    ],
+    "procedure": [
+        "Do rozdrobíme droždí, přidáme cukr, a zalijeme vlažnou vodou tak, aby bylo droždí ponořené.",
+        "V míse ze zbytku vody, mouky a rozkynutého droždí vypracujeme těsto.",
+        "Necháme pod utěrkou 45 minut kynout.",
+        "Poté do těsta zapracujeme kmín a sůl.",
+        "Těsto přemístíme do formy a necháme dalších 30 minut kynout.",
+        "Před pečením potřebe vrch těsta slanou vodou.",
+        "Těsto ve formě vložíme do trouby rozehřáté na 200\\degree C a pečeme 20 minut.",
+        "Poté snížíme teplotu na 180\\degree C a pečeme dalších 60 minut."
+    ],
+    "is_čuču": true
+}

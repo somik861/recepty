@@ -1,0 +1,23 @@
+{
+    "name": "Hříbky se špenátem",
+    "items": [
+        "olej",
+        "máslo",
+        "1 cibule",
+        "450 g hřibů",
+        "450 g špenátu",
+        "10 stroužků česneku",
+        "černý pepř",
+        "trošku chilli",
+        "petrželová nať",
+        "sůl"
+    ],
+    "procedure": [
+        "Cibuli osmažíme na oleji a másle.",
+        "Přidáme česnek a osmažíme.",
+        "Poté osmažíme hřiby a přidáme sůl s kořením.",
+        "Nakonec přidáme špenát."
+    ],
+    "portions": 8,
+    "is_čuču": true
+}

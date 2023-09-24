@@ -3,6 +3,18 @@ from common import loader
 from pathlib import Path
 from typing import TextIO
 
+_ALPHABET = ['a', 'á', 'b', 'c', 'č', 'd', 'ď', 'e', 'é', 'f', 'g', 'h', 'ch', 'i', 'í', 'j', 'k', 'l', 'm', 'n',
+             'ň', 'o', 'ó', 'p', 'q', 'r', 'ř', 's', 'š', 't', 'ť', 'u', 'ú', 'ů', 'v', 'w', 'x', 'y', 'ý', 'z', 'ž']
+ALPHABET_MAP = dict((ch, idx) for idx, ch in enumerate(_ALPHABET))
+
+
+def _alph_key(string: str) -> int:
+    string = string.lower()
+    if string.startswith('ch'):
+        return ALPHABET_MAP['ch']
+    return ALPHABET_MAP[string[0]]
+
+
 _ARG_OUT = Path('out.tex')
 
 
@@ -123,7 +135,7 @@ def _write_block(stream: TextIO, recipes: list[loader.Recipe], name: str) -> Non
 \\newpage
 \\section{{{name}}}
 ''')
-    for recipe in sorted(recipes, key=lambda x: x.name):
+    for recipe in sorted(recipes, key=lambda x: _alph_key(x.name)):
         _write_recipe(stream, recipe)
 
 

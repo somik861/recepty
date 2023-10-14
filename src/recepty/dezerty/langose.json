@@ -1,0 +1,29 @@
+{
+    "name": "Langoše",
+    "items": {
+        "těsto": [
+            "400 g hladké mouky",
+            "150 g bílého jogurtu",
+            "1 lžíce oleje",
+            "1 lžička cukru",
+            "20 g čerstvého droždí",
+            "špetka soli",
+            "150 ml vlažné vody",
+            "olej na smažení"
+        ],
+        "na posupání a potření": [
+            "česnek",
+            "kečup",
+            "sýr"
+        ]
+    },
+    "procedure": [
+        "Zaděláme kvásek z droždí, 150 ml vlažné vody, cukru a trochu mouky.",
+        "Do mísy dáme mouku, sůl, jogurt, olej a kvásek a zaděláme těsto. Mísu zakrujeme utěrkou a necháme 1 hodinu vykynout.",
+        "Když je těsto vykynuté, rozdělíme ho na bochánky a ty rozválíme na placky, které necháme ještě kynout, přibližně 15 minut.",
+        "Poté můžeme hned smažit, ve vyšší vrstvě oleje. Hotové langoše odložíme na talíč s papírovým ubrouskem, který odsaje přebytečný olej.",
+        "Podle chuti každý langoš potřeme kečupem nebo česnekem a posypeme strouhaným sýrem."
+    ],
+    "is_čuču": false,
+    "portions": 6
+}

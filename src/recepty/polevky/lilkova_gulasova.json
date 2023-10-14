@@ -1,0 +1,24 @@
+{
+    "name": "Lilková gulášová",
+    "items": [
+        "3 cibule",
+        "10 stroužků čenseku",
+        "3 sladké brambory (batáty)",
+        "3 lilky",
+        "1 cuketa",
+        "4 papriky",
+        "10 rajčat",
+        "sůl",
+        "černý pepř",
+        "trochu mletého kmínu",
+        "hodně uzené mleté papriky",
+        "hodně oregana",
+        "hodně majoránky"
+    ],
+    "procedure": [
+        "Osmažíme cibuli, potom přidáme postupně česnek, ostatní koření, lilek, papriky, cuketu a rajčata.",
+        "Nakonec zalejeme vodou a dovaříme."
+    ],
+    "is_čuču": true,
+    "portions": 8
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Matcha sušenky",
+    "items": [
+        "170 g rozpuštěného másla",
+        "100 g cukru krupice",
+        "1 lžíce vanilky",
+        "280 g hladké mouky",
+        "1 lžíce jedlé sody",
+        "200 g bílé čokolády",
+        "150 g třtinového cukru",
+        "2 vajíčka",
+        "3 lžíce matchi + 2 lžíce vody",
+        "2 lžíce kukuřičného škrob",
+        "špetka soli"
+    ],
+    "procedure": [
+        "Rozpuštěné máslo smícháme s cukrem (nešlehat).",
+        "Přidáme vajíčka a zamícháme.",
+        "Rozmícháme matchu ve vařící vodě a o přidáme do těsta.",
+        "Dále vmícháme mouku, škrob, sůl a jedlou sodu.",
+        "Čokoládu nakrájíme na kousky a zamícháme do těsta.",
+        "Těsto necháme odpočinout v ledničce minimálně 2 hodiny (klidně přes noc).",
+        "Z těsta vytvoříme malé kuličky a dáme do mražáku na 15 minut.",
+        "Sušenky pečeme na 180\\degree C cca 9 - 12 minut."
+    ],
+    "note": "Sušenky dáváme daleko od sebe, aby se neslepily (dost se roztékají). Sušenky mají být měkké, ne tvrdé!",
+    "is_čuču": false,
+    "portions": 8
+}

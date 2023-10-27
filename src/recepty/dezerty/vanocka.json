@@ -1,0 +1,28 @@
+{
+    "name": "Vánočka",
+    "items": [
+        "600 g hladké mouky",
+        "1 balení vanilkového cukru",
+        "120 g krupicového cukru",
+        "200 ml mléko",
+        "1/2 čerstvého droždí",
+        "2 vejce",
+        "120 g másla",
+        "1 lžička soli",
+        "citrónová kůra podle chuti",
+        "vejce na potření",
+        "mandle na posypání",
+        "250 g sušených hrozinek (optional)"
+    ],
+    "procedure": [
+        "Namočíme hrozinky a vybereme ingredience z ledničky, aby se dostali na pokojovou teplotu.",
+        "Třetinu mléka ohřejeme v mikrovlnné troubě a rozmícháme v něm lžičku cukru a lžičku mouky.",
+        "Když bude mléko vhodné teploty, přidáme do něj droždí a založíme kvásek.",
+        "Všechny ingredience společně s kváskem smícháme v těsto.",
+        "Dladně prohněteme a necháme 1.5h kynout.",
+        "Potom upleteme vánočku a necháme kynout dalších 40 minut.",
+        "Pečeme na 180\\degree C cca 45 minut."
+    ],
+    "is_čuču": false,
+    "portions": 8
+}

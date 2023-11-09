@@ -1,0 +1,25 @@
+{
+    "name": "Bábovka",
+    "items": [
+        "180 g práškového cukru",
+        "140 g másla",
+        "4 vejce",
+        "150 ml mléka",
+        "200 g hrubé mouky",
+        "1/2 prášku do pečiva",
+        "špetka soli",
+        "kakao podle barvy",
+        "100 g mletých vlašských ořechů",
+        "1/3 hrnku rozinek namočených ve horké vodě",
+        "másla a hladká/polohrubá mouka na vysypání formy"
+    ],
+    "procedure": [
+        "Máslo, cukr a žloutky vyšleháme.",
+        "Vmícháme suché ingredience.",
+        "Ušleháme sníh a zlehka ho do směsi vmícháme.",
+        "Přidáme rozinky.",
+        "Formu vytřeme máslem a vyspyeme moukou (hladkou nebo polorhubou).",
+        "Pečeme na 180 - 190 \\degree C asi půl hodiny."
+    ],
+    "is_čuču": false
+}

@@ -2,15 +2,18 @@
     "name": "Guacamole",
     "items": [
         "3 avokáda",
-        "1 cibule",
+        "1/2 cibule",
         "2 rajčata",
         "šťáva z 1 limetky",
-        "4 stroužky česneku",
+        "2 stroužky česneku",
         "sůl",
         "koření"
     ],
     "procedure": [
-        "TODO"
+        "Avokáda vydlabeme a rozdrtíme.",
+        "Vmícháme na velmi jemné kousky nakrájenou cibuli a rajčata.",
+        "Přidáme protlačený česnek, sůl, koření a šťávu z limetky.",
+        "Pořádně promícháme."
     ],
     "note": "Servírujeme s slunečnicovýma nebo tykvovýma semínkama.",
     "portions": 8,

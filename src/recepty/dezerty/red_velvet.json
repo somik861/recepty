@@ -1,0 +1,40 @@
+{
+    "name": "Red Velvet",
+    "items": {
+        "korpus": [
+            "250 g hladké mouky",
+            "špetka soli",
+            "15 g kakaa",
+            "113 g změklého másla",
+            "200 g cukru krupice",
+            "2 velká vejce (pokojové teploty)",
+            "240 ml podmáslí",
+            "červená barva (tekutá, gelová, prášková)",
+            "1 lžička octa",
+            "1 lžička jedlé sody"
+        ],
+        "krém": [
+            "250 g mascarpone",
+            "250 g krémového sýra (typu Philadelphia, Žervé, Lučina ... )",
+            "50 g moučkového curku",
+            "350 g smetany ke šlehání (min. 33\\%, nejlépe 40\\%)",
+            "lžička vanilkového extraktu"
+        ]
+    },
+    "procedure": {
+        "korpus": [
+            "Troubu předehřejte na 175 stupňů, dvě formy o průměru cca 22 cm vyložte pečícím papírem. Korpus se dá samozřejmě upéct i v jedné formě najednou, jen bude potřebovat trochu delší dobu na pečení a asi nebude tak vysoký.",
+            "V misce smíchejte mouku s kakaem a solí, odložte stranou. V hrnku smíchejte podmáslí s červenou barvou a dobře promíchejte.",
+            "V míse vyšlehejte změklé máslo, přidejte cukr a později i obě vejce. Prošlehejte do krémova. Pak střídavě přidávejte moučnou směs a podmáslí. Mouku na třikrát, podmáslí na dvakrát.",
+            "V malé misce smíchejte jedlou sodu s octem, směs vypění, a rychle vmíchejte stěrkou do těsta. Dobře promíchejte a těsto rozdělte do dvou forem. Dejte péct do vyhřáté trouby na 25 - 30 minut, pokud pečete v jedné formě, tak o něco déle. Špejlí si ověřte, zda je korpus upečený.",
+            "Nechte trochu zchladnout ve formě, pak ořízněte boky dortu a opatrně vyklopte na chladicí mřížku. Buďte opatrní, korpus je velmi křehký. Po vychladnutí zabalte do folie a nechte v lednici do druhého dne."
+        ],
+        "krém": [
+            "Mascarpone, sýr a cukr dejte do mísy a společně prošlehejte. Pak přilijte smetanu s vanilkovým extraktem a pokračujte ve šlehání do hustého krému. Krém by neměl být moc sladký.",
+            "Oba dortové korpusy jednou vodorovně prokrojte, vzniknou Vám čtyři slabší pláty. Pokud jste pekly pouze v jedné formě, zkuste prokrojit alespoň dvakrát. Korpus je křehký, může se drolit. Jednotlivé pláty promažte krémem, část krému si nechte na pomazání dortu, případně můžete ozdobit vršek dortu. Dort nechte alespoň pár hodin rozležet, ideálně do druhého dne."
+        ]
+    },
+    "is_čuču": false,
+    "portions": 16,
+    "note": "Pro koláč o průměru 22 cm. Zdroj: https://vikendovepeceni.cz/2015/11/dort-red-velvet/"
+}

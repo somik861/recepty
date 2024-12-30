@@ -1,8 +1,8 @@
 {
     "name": "Cizrna s brokolicí",
     "items": [
-        "2 hrnky cizrny",
-        "brokolice rozebraná na růžičky",
+        "3 hrnky cizrny",
+        "3 brokolice rozebraná na růžičky",
         "1 větší cibule",
         "olej",
         "sójová omáčka",
@@ -14,5 +14,6 @@
         "Přidáme uvařenou cizrnu a prohřejeme.",
         "Zahustíme kukuřičným škrobem rozmíchaným v trošce studené vody a dochutíme sójovou omáčkou."
     ],
+    "portions": 8,
     "is_čuču": true
 }

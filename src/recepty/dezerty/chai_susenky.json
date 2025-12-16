@@ -1,0 +1,42 @@
+{
+    "name": "Chai sušenky",
+    "items": {
+        "Chai cukr": [
+            "60 g krystalového cukru",
+            "1 lžička skořice",
+            "1 lžička zázvoru",
+            "0,5 lžičky kardamonu",
+            "0,5 lžičky hřebíčku",
+            "0,5 lžičky nového koření",
+            "0,125 lžičky černého pepře"
+        ],
+        "Těsto": [
+            "300 g hladké mouky",
+            "1,5 lžičky prášku do pečiva",
+            "1 lžička jedné sody",
+            "2 lžičky zázvoru",
+            "1 lžička skořice",
+            "0,5 lžičky hřebíčku",
+            "0,5 lžičky kardamonu",
+            "0,5 lžičky soli",
+            "0,25 lžičky nového koření",
+            "0,25 lžičky černého pepře",
+            "250 g másla",
+            "100 g cukru krystalu",
+            "100 g třtinového cukru",
+            "1 vejce",
+            "2 lžičky vanilkové aromy"
+        ]
+    },
+    "procedure": [
+        "Přisany na cukr v misce smícháme.",
+        "Suché přísady (kromě cukru) na těsto v misce smícháme.",
+        "Máslo vyšleháme a přidáme cukr a rozšleháme.",
+        "Do másla zašleháme vejce.",
+        "Smícháme másla a směs se suchými ingrediencemi.",
+        "Necháme alespoň hodinu vychladnout v ledničce.",
+        "Z těsta vytvoříme malé kuličky, obalíme v chai-cukru a položíme na plech (daleko od sebe).",
+        "Pečeme na 180\\degree C pár minut."
+    ],
+    "is_čuču": false
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Crème brûlée",
+    "items": [
+        "750 ml smetany na šlehání",
+        "7 žloutků",
+        "75 g cukru",
+        "1 vanilkový lusk",
+        "vanilkové aroma"
+    ],
+    "procedure": [
+        "Žloutky rozšleháme s cukrem.",
+        "Smetanu s valinkou přivedeme do varu.",
+        "Horkou smetanu za stálého míchání přidáváme ke žloutkům.",
+        "Pečeme (více jak hodinu) na 120\\degree C ve vodní lázni."
+    ],
+    "is_čuču": false
+}

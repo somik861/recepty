@@ -1,0 +1,17 @@
+{
+    "name": "Zapečené těstoviny (rychlé)",
+    "items": [
+        "250 g těstovin",
+        "2 sáčky mražené zeleniny",
+        "400 g masa",
+        "12 vajec",
+        "1 smetana na vaření",
+        "trochu mléka"
+    ],
+    "procedure": [
+        "Uvařené těstoviny smícháme se zeleninou a na kostky nakrájeným masem, zamícháme a vyložíme na plech.",
+        "Smícháme vajíčka, smetanu a mléko a vylejeme do plechu.",
+        "Pečeme na 180\\degree C."
+    ],
+    "is_čuču": false
+}

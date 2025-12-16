@@ -1,0 +1,19 @@
+{
+    "name": "Perníčky",
+    "items": [
+        "4 vejce",
+        "4 lžičky medu",
+        "360 g práškového cukru",
+        "560 g hladké mouky",
+        "50 g vepřového sádla",
+        "1 lžičky jedlé sody",
+        "1,5 sáčku perníkového koření"
+    ],
+    "procedure": [
+        "Rozmícháme vejce s cukrem.",
+        "Vmícháme med a sádlo.",
+        "Přidáme mouku, sodu a koření.",
+        "Pečeme na 180\\degree C."
+    ],
+    "is_čuču": false
+}

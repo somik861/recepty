@@ -1,0 +1,20 @@
+{
+    "name": "Vaječný likér",
+    "items": [
+        "1 salko",
+        "50 g cukru",
+        "4 žloutky",
+        "250 ml smetany na šlehání",
+        "vanilkové aroma",
+        "špetka skořice",
+        "250 ml rumu"
+    ],
+    "procedure": [
+        "Salko dáme den dopředu vařit 2 hodiny ponořené ve vodě a poté necháme vychladnout.",
+        "Žloutky vyšleháme s cukrem.",
+        "Smetanu se salkem, vanilkou a skořicí přivedeme k varu.",
+        "Teplou smetanu postupně přidáváme k vyšleháným žloutkům za stálého míchhání.",
+        "Nakonec přidáme rum."
+    ],
+    "portions": "skoro 1 litr"
+}
